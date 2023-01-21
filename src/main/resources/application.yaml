@@ -1,0 +1,5 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb+srv://arman_0212:arman_0212@cluster0.8chashc.mongodb.net/?retryWrites=true&w=majority
+      database: buildar
